@@ -1,4 +1,4 @@
-# Salut, je suis Augustin 👋
+# Hey there 👋
 
 🤖 **Ingénieur en Robotique | Paris, France**
 
