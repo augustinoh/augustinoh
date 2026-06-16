@@ -27,4 +27,3 @@ Je travaille sur des pipelines Sim to Real et en contrôle automatique de robots
 - 🔭 **Actuellement :** Je travaille sur le contrôle robotique de système non linéaires.
 - 🌱 **J'explore aussi :** Le contrôle Robotique pour obtenir des mouvements fluides, et les pipelines avancées de Sim to Real.
 - 👯 **Je cherche à collaborer sur :** Des projets open-source autour de ROS 2 ou de l'analyse de stabilité des systèmes.
-- 📫 **Comment me contacter :** www.linkedin.com/in/augustin-nguon
