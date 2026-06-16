@@ -2,7 +2,7 @@
 
 🤖 **Ingénieur en Robotique | Paris, France**
 
-Passionné par l'automatisation et l'intelligence artificielle, je travaille sur l'intégration de systèmes complexes pour donner vie aux robots. De la simulation à la réalité, je conçois des architectures de contrôle robustes.
+Je travaille sur des pipelines Sim to Real et en contrôle automatique de robots.
 
 ### 🔭 Ce que je fais
 
