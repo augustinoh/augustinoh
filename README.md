@@ -1,29 +1,29 @@
 # Hey there 👋
 
-🤖 **Ingénieur en Robotique | Paris, France**
+🤖 **Robotics Engineer | Montréal, Paris, France**
 
-Je travaille sur des pipelines Sim to Real et en contrôle automatique de robots.
+I build Sim-to-Real pipelines and develop robust control architectures for robotic systems.
 
-### 🔭 Ce que je fais
+### 🔭 What I Do
 
-*   **Contrôle Robotique & Sim-to-Real :** Développement de pipelines pour transférer les comportements appris ou simulés vers des environnements physiques.
-*   **Intégration d'IA :** Déploiement de modèles d'intelligence artificielle embarqués sur divers systèmes (automatisation industrielle, drones, robotique humanoïde, etc.).
-*   **Fusion de Données Sensorielles :** Intégration de capteurs multiples pour la perception, le contrôle et la simulation de systèmes robotiques complexes.
+*   **Robotic Control & Sim-to-Real:** Developing pipelines to transfer learned or simulated behaviors into physical environments.
+*   **AI Integration:** Deploying embedded AI models across diverse hardware systems (industrial automation, drones, humanoid robotics, etc.).
+*   **Sensor Fusion:** Integrating multiple sensors to enhance perception, control, and the simulation of complex robotic systems.
 
 ---
 
-### 🛠️ Outils & Technologies
+### 🛠️ Tools & Technologies
 
-| Catégorie | Technologies |
+| Category | Technologies |
 | :--- | :--- |
-| **Langages** | Python, C, C++ |
+| **Languages** | Python, C, C++ |
 | **Frameworks & OS** | ROS 2, Ubuntu Linux (24.04 Noble Numbat) |
-| **Domaines** | Architecture de contrôle, Pipeline Sim-to-Real, Algorithmes IA |
+| **Core Domains** | Control Architectures, Sim-to-Real Pipelines, AI Algorithms |
 
 ---
 
-### ⚡ Pour en savoir plus...
+### ⚡ Quick Facts
 
-- 🔭 **Actuellement :** Je travaille sur le contrôle robotique de système non linéaires.
-- 🌱 **J'explore aussi :** Le contrôle Robotique pour obtenir des mouvements fluides, et les pipelines avancées de Sim to Real.
-- 👯 **Je cherche à collaborer sur :** Des projets open-source autour de ROS 2 ou de l'analyse de stabilité des systèmes.
+- 🔭 **Currently working on:** Robotic control architectures for nonlinear systems.
+- 🌱 **Currently exploring:** Advanced Sim-to-Real pipelines and robotic control for fluid motion generation.
+- 👯 **Looking to collaborate on:** Open-source ROS 2 projects and system stability analysis.
